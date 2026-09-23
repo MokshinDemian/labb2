@@ -20,9 +20,21 @@
 
 
 ## 2. Реализация программы  
+#include <stdio.h>  
+#include <locale.h>  
+int main() {  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;setlocale(LC_ALL, ".UTF8");  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int a = 300;  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int b = 1000;  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int c = 100;  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int d = 2000;  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf("Введите исходную сумму ");  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf("Сдача: %d", d - (a + b + c));  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return 0;  
+}  
 ## 3. Результаты работы программы  
 Введите исходную сумму 2000  
 Сдача: 600  
 
-## 4. Информация о разработчике
-Мокшин Демьян бОТИ-262
+## 4. Информация о разработчике  
+Мокшин Демьян бОТИ-262  
