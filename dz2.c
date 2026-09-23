@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <locale.h>
 int main() {
-	setlocale(LC_ALL, ".UTF8");
-	int a = 300;
-	int b = 1000;
-	int c = 100;
-	int d = 2000;
-	printf("Введите исходную сумму ");
-	printf("Сдача: %d", d - (a + b + c));
-	return 0;
+         setlocale(LC_ALL, ".UTF8");
+         int glov = 300; // стоимость перчаток
+         int ryk = 1000; // стоимость рюкзака
+         int c = 100; // стоимость галстука
+         int d = 2000; // общая
+         printf("Сдача: %d", d - (ryk + gals + glov));
+         return 0;
 }
