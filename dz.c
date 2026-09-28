@@ -3,7 +3,7 @@
 
 int main() {
 	setlocale(LC_ALL, ".UTF8");
-	float a, b;
+	double a, b;
 	scanf_s("%g  %g", &a, &b);
 	printf("______________________\n");
 	printf("| %-5g | %-5g | %-5g | \n",a*b,a+b,a-b);
