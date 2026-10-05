@@ -16,8 +16,8 @@
     &nbsp;&nbsp;&nbsp;total = d - (ryk + gals + glov)  
 5. Вывести результаты расчетов с подстановкой всех значений в текст.  
 6. Конец  
-<img width="297" height="713" alt="image" src="https://github.com/user-attachments/assets/b12d2729-240c-46ab-a8e2-e06a62e243f7" />
-<img width="1043" height="1718" alt="image" src="https://github.com/user-attachments/assets/4ce0d4e8-9612-401e-9555-e4133287acb7" />
+<img width="917" height="1458" alt="image" src="https://github.com/user-attachments/assets/afc580cf-3d9d-485a-9119-1e00fe615ebc" />
+
 
 
 
