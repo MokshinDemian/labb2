@@ -10,6 +10,6 @@ int main(void) {
 	m = (y * M_PI) / 180;
 	gm = fabs(pow(x, y / x) - pow(y / x, 1. / 3.)) - ((y - x) * cos(m) - z / (y - x)) / (1 + pow(y - x, 2));
 	printf("%lf", gm);
-	return 0;
+	system("pause");
 
 }
