@@ -18,7 +18,8 @@
 6. Конец
    
    <img width="783" height="1237" alt="image" src="https://github.com/user-attachments/assets/60d4ec3d-8582-4bcf-a905-9374b5f72531" />
-![Uploading image.jpeg…]()
+![Uploading image.png…]()
+
 
 
 
